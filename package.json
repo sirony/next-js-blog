@@ -1,0 +1,20 @@
+{
+  "name": "next-js-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3040",
+    "build": "next build",
+    "start": "next start -p 3045",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.3"
+  }
+}
