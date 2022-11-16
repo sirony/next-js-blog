@@ -16,7 +16,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I am <span className={`${utilStyles.boldText} ${utilStyles.redColor}`}>Shariful</span>. I am Software enginer and <span className={utilStyles.brownColor}>Full Stack Web Developer</span> from Bangladesh</p>
+        <p>Hello, I am <span className={`${utilStyles.boldText} ${utilStyles.redColor}`}>Shariful</span>. I am Software enginer and <span className={utilStyles.brownColor}>Full Stack Web Developer</span> from Bangladesh.</p>
         <p>
           Contact Information:<br></br>    
           Email: <a href="ailto:sirony25@gmail.com">sirony25@gmail.com</a>
